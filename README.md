@@ -38,7 +38,6 @@ The dashboard provides insights into confirmed cases, deaths, recovery rates, ac
 
 ## Files Included
 - Excel Dashboard File (.xlsx)
-- Dataset (.csv)
 - Dashboard Screenshots
 
 ## Author
